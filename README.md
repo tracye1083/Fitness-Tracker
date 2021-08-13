@@ -42,7 +42,7 @@ This app is used to track fitness activity of the user and display recent result
 ## Links
 
 - [GitHub Repository](https://github.com/tracye1083/Fitness-Tracker)
-- [Deployed Application](URL GOES HERE)
+- [Deployed Application](https://purple-fitness-tracker.herokuapp.com/)
 
 ---
 
