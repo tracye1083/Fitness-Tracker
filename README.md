@@ -48,7 +48,8 @@ This app is used to track fitness activity of the user and display recent result
 
 ## Screenshot(s)
 
-![Landing Page](IMG GOES HERE)
+![Landing Page](homepage.png)
+![Dashboard](dashboard.png)
 
 ---
 
